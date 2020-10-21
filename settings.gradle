@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Cua_Hang_Thiet_Bi_Online"
